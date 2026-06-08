@@ -1,6 +1,6 @@
 services:
   website:
-    image: nginx:alpine
+    
     container_name: final-project-website
     ports:
       - "8080:80"
